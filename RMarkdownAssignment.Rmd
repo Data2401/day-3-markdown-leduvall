@@ -1,6 +1,6 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Lauren Duvall"
 date: "Data 2401"
 output: html_document
 ---
@@ -35,3 +35,30 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
  
+# Your Work Here 
+
+## Wise Words 
+
+> "Be at peace with the things you can't change." -Raye
+
+[more info about this quote](https://americansongwriter.com/the-meaning-behind-escapism-by-raye-ft-070-shake-and-how-she-turned-real-life-trauma-into-creative-catharsis/)
+
+## My Semester 
+
+|Course Number|Course Title|Instructor Name|
+|:------------|:-----------|:--------------|
+|__MATH 2402__|_Calculus II_|Plamen Simeonov|
+|__CS 1411__|_Computer Science_|Joseph Kamto|
+|__DATA 2401__|_Data Science_|Katherine Shoemaker|
+
+## I Recommend 
+
+### Beyoncé
+
+```
+Rewrote a version of Dolly Parton's "Jolene" that is very fun. 
+```
+
+1. Single Ladies
+2. AMERICA HAS A PROBLEM
+3. Homecoming: The Live Album
